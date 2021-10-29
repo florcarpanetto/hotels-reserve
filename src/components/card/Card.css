@@ -1,0 +1,29 @@
+
+.card {
+    width: 30%;
+    border: solid black 1px;
+}
+
+.hotel-photo {
+    width: 30%;
+}
+
+.name {
+    font-size: 1.2rem;
+}
+
+.availability {
+    font-size: 1rem;
+}
+
+.description {
+    font-size: 0.8rem;
+}
+
+.icon-location {
+    width: 8%;
+}
+
+.icon-room {
+    width: 8%;
+}
